@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@300&display=swap");
 body {
   background-color: #202125;
-  min-width: 600px !important;
 }
 @media screen and (max-width: 1000px) {
   /* Thêm quy tắc CSS ở đây */
